@@ -3,4 +3,4 @@ SVW-UCF Dataset for Video Domain Adaptation, described in the paper: *link to be
 
 The dataset consists of 25 classes, 5878 training and 2410 testing samples.
 
-![Collected categories](https://github.com/ArtjomUEA/SVW-UCF/fig.png?raw=true)
+![](https://github.com/ArtjomUEA/SVW-UCF/blob/main/fig.png?raw=true)
